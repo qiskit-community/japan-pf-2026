@@ -1,0 +1,4 @@
+qopt-best-practices/
+qaoa_training_pipeline/
+optimization-add-on/
+!.gitignore

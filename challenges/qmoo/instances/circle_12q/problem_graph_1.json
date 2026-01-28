@@ -1,0 +1,105 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "id": 0
+    },
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    }
+  ],
+  "links": [
+    {
+      "weight": -0.4703,
+      "source": 0,
+      "target": 1
+    },
+    {
+      "weight": -0.6276,
+      "source": 0,
+      "target": 11
+    },
+    {
+      "weight": -0.9171,
+      "source": 1,
+      "target": 2
+    },
+    {
+      "weight": -0.5627,
+      "source": 2,
+      "target": 3
+    },
+    {
+      "weight": -0.6518,
+      "source": 3,
+      "target": 4
+    },
+    {
+      "weight": 0.1745,
+      "source": 4,
+      "target": 5
+    },
+    {
+      "weight": 0.9744,
+      "source": 5,
+      "target": 6
+    },
+    {
+      "weight": 0.0141,
+      "source": 6,
+      "target": 7
+    },
+    {
+      "weight": -0.0758,
+      "source": 7,
+      "target": 8
+    },
+    {
+      "weight": -1.0128,
+      "source": 8,
+      "target": 9
+    },
+    {
+      "weight": 1.7911,
+      "source": 9,
+      "target": 10
+    },
+    {
+      "weight": -0.1014,
+      "source": 10,
+      "target": 11
+    }
+  ]
+}

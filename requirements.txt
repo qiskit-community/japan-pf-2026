@@ -1,0 +1,20 @@
+qiskit[visualization]==2.2.2
+qiskit-serverless==0.27.0
+qiskit-ibm-runtime==0.41.1
+qiskit-ibm-catalog==0.11.0
+qiskit-aer==0.17.2
+qiskit-addon-sqd==0.12.0
+ffsim==0.0.60
+qiskit-optimization[cplex]==0.7.0
+python-sat==1.8.dev24
+moocore==0.1.8
+geometric==1.1
+quimb==1.11.2
+graphviz==0.21
+cvxpy==1.7.3
+ipykernel==7.0.1
+jupyter==1.1.1
+qopt-best-practices @ git+https://github.com/qiskit-community/qopt-best-practices@65013e56ad67475ea176ab892b656ade6c311bea
+qaoa_training_pipeline @ git+https://github.com/qiskit-community/qaoa_training_pipeline@ab7eaea1b4be5c6ea72fd4fa14dc35aa2aaebd7a
+qiskit-addon-opt-mapper==0.1.0
+qc-grader @ git+https://github.com/qiskit-community/Quantum-Challenge-Grader.git

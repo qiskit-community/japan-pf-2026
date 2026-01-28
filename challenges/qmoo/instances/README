@@ -1,0 +1,11 @@
+This directory contains problem instances to be solved during IBM Quantum's Quantum Developer Conference
+2025 Multi-objective optimization challenge. Each subfolder contains the following files:
+- angles.json -- This file contains a dictionary {p_i: angles_i} of QAOA params to be used at p_i layers
+- ubounds.json -- This file contains a list [u_0, .., u_n] of upper bounds for each objective function
+- lbounds.json -- This file contains a list [l_0, .., l_n] of lower bounds for each objective function
+- problem_graph_0.json -- This file contains a graph g_0 = (V_0, E_0, w_0) as a networkx node-link graph
+- problem_graph_1.json -- This file contains a graph g_1 = (V_1, E_1, w_1) as a networkx node-link graph
+      ...
+- problem_graph_n.json -- This file contains a graph g_n = (V_n, E_n, w_n) as a networkx node-link graph
+
+See function load_problem in qmoo_utils.py for details! 
