@@ -19,7 +19,6 @@ env/
 # Notebook outputs and exports
 *.nbconvert.ipynb
 *.html
-*.pdf
 
 # macOS
 .DS_Store
