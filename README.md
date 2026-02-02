@@ -16,7 +16,7 @@
 |-------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------|-----------|
 | 9:00–9:30   | Registration/受付                                                                                |                                               |           |
 | 9:30–9:45   | Opening — "Scaling for Quantum Advantage and Beyond"                                             | Hiroshi Horii; Antonio Corcoles (IBM Quantum) |           |
-| 9:45–10:45  | Qiskit Updates and live demonstrations                                                           | Matthew Treinish; Julien Gacon (IBM Quantum)  |           |
+| 9:45–10:45  | Qiskit Updates and live demonstrations                                                           | Matthew Treinish; Julien Gacon (IBM Quantum)  | [presentation](./qiskit_updates/qiskit_updates/Qiskit_Updates.df) [notebook](./qiskit_updates/C_api_interactive.ipynb)          |
 | 10:45–11:00 | Break                                                                                            |                                               |           |
 | 11:00–12:30 | Dynamic Circuits and hands-on demo: Simulation of Kicked Ising Hamiltonian with Dynamic Circuits | Mirko Amico (IBM Quantum)                     | [presentation](./dynamic-circuits/utility-scale-dynamic-circuits.pdf) [notebook](./dynamic-circuits/dc_hex_ising.ipynb)      |
 | 12:30–13:30 | Lunch Break (お弁当を用意しております/A bento box will be served)                                |                                               |           |
