@@ -1,7 +1,15 @@
-# 量子プログラミング実践講座
-# Japan Practitioners Forum 2026
+# 量子プログラミング実践講座 | Japan Practitioners Forum 2026
 
-## プログラム（予定）：
+## Table of Content
+
+- [プログラム | Program](#プログラム--program-)
+    - [Day 1](#day-1-feb-2-2026-mon)
+    - [Day 2](#day-2-feb-3-2026-tue)
+- [Optimization Functions Challenges](#optimization-functions-challenges)
+    - [Setup](#setup)
+    - [Challenges](#challenges)
+
+## プログラム | Program ：
 ### Day 1: Feb 2, 2026 (Mon)
 
 | Time | Description | Speaker |
