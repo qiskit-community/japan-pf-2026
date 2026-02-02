@@ -2,13 +2,10 @@
 
 ## Table of Content
 
-- [量子プログラミング実践講座 | Japan Practitioners Forum 2026](#量子プログラミング実践講座--japan-practitioners-forum-2026)
-  - [Table of Content](#table-of-content)
-  - [プログラム | Program ：](#プログラム--program-)
-    - [Day 1: Feb 2, 2026 (Mon)](#day-1-feb-2-2026-mon)
-    - [Day 2: Feb 3, 2026 (Tue)](#day-2-feb-3-2026-tue)
-      - [Day 2 午後の量子コン・クリニックについて](#day-2-午後の量子コンクリニックについて)
-  - [Optimization Functions Challenges](#optimization-functions-challenges)
+- [プログラム | Program](#プログラム--program-)
+    - [Day 1](#day-1-feb-2-2026-mon)
+    - [Day 2](#day-2-feb-3-2026-tue)
+- [Optimization Functions Challenges](#optimization-functions-challenges)
     - [Setup](#setup)
     - [Challenges](#challenges)
 
