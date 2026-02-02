@@ -14,13 +14,13 @@
 
 | Time        | Description                                                                                      | Speaker                                       | Materials |
 |-------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------|-----------|
-| 9:00–9:30   | Registration/受付                                                                                |                                               |           |
+| 9:00–9:30   | Registration / 受付                                                                                |                                               |           |
 | 9:30–9:45   | Opening — "Scaling for Quantum Advantage and Beyond"                                             | Hiroshi Horii; Antonio Corcoles (IBM Quantum) |           |
 | 9:45–10:45  | Qiskit Updates and Live Demo                                                           | Matthew Treinish (IBM Quantum) | [presentation](./qiskit_updates/qiskit_updates/Qiskit_Updates.df) [notebook](./qiskit_updates/C_api_interactive.ipynb) |
 |             | Qiskit FTQC Updates                                                           | Julien Gacon (IBM Quantum)  | [presentation](./qiskit_updates/qiskit_ftqc.pdf)        |
 | 10:45–11:00 | Break                                                                                            |                                               |           |
 | 11:00–12:30 | Dynamic Circuits and Hands-on Demo: Simulation of Kicked Ising Hamiltonian with Dynamic Circuits | Mirko Amico (IBM Quantum)                     | [presentation](./dynamic-circuits/utility-scale-dynamic-circuits.pdf) [notebook](./dynamic-circuits/dc_hex_ising.ipynb)      |
-| 12:30–13:30 | Lunch Break (お弁当を用意しております/A bento box will be served)                                |                                               |           |
+| 12:30–13:30 | Lunch Break (A Bento Box Will Be Served / お弁当を用意しております)                                |                                               |           |
 | 13:30–14:30 | Areas of Advantage I: Optimization Landscape and Capabilities                                    | Elena Peña Tapia (IBM Quantum)                | [notebooks](./opt_landscape_capabilities/)          |
 | 14:30–15:30 | Areas of Advantage II: Hamiltonian Simulation                                                    | Yuri Kobayashi (IBM Quantum)                  | [presentation](./hamiltonian_simulation/hamiltonian_simulation_overview.pdf) [notebook](./hamiltonian_simulation/hamiltonian-simulation.ipynb)         |
 | 15:30–16:00 | Coffee Break                                                                                     |                                               |           |
